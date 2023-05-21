@@ -1,0 +1,1 @@
+The objective of this script is to verify the role assigned to a specific user across multiple accounts in an organization.
